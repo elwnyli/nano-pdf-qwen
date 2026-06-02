@@ -1,9 +1,9 @@
 <h1 align="center">nano-pdf-qwen</h1>
 
 <p align="center">
-  <a href="https://github.com/elwnyli/nano-pdf-qwen/stargazers"><img src="https://img.shields.io/badge/GitHub-Stars-blue?style=flat-square&logo=github" alt="GitHub stars"></a>
+  <a href="https://github.com/elwnyli/nano-pdf-qwen/stargazers"><img src="https://img.shields.io/github/stars/elwnyli/nano-pdf-qwen?style=flat-square&logo=github&color=blue" alt="GitHub stars"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/github/license/elwnyli/nano-pdf-qwen?style=flat-square" alt="License"></a>
 </p>
 
 <p align="center">
