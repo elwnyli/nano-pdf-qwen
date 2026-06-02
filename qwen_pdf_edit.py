@@ -118,6 +118,10 @@ def apply_edits(doc, page_num, blocks, actions):
 
                 elif act == "replace":
                     new_text = action.get("new_text", "")
+                    full = block["text"]
+                    idx = full.lower().find(target)
+                    if idx > 0:
+                        new_text = full[:idx] + new_text
                     page.add_redact_annot(rect, fill=(1, 1, 1))
                     page.apply_redactions()
                     tw = fitz.TextWriter(page.rect)
